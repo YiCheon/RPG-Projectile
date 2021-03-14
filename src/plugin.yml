@@ -1,0 +1,6 @@
+name: rpg_projectile
+version: '1.0'
+main: Main.Main
+api-version: 1.13
+commands:
+   rpg_projectile:
